@@ -1,27 +1,29 @@
 # 🌌 Antymateria - TrashOut DNS for AdGuard Home
 
-Casualowa, polska lista DNS bezlitośnie wywożąca internetowy syf, czat-ruletki i toksyczne strony prosto na wysypisko. Stworzona z myślą o czystej sieci, bezpieczeństwie domowników i anihilacji patologii w zarodku. 💥
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Version](https://img.shields.io/badge/Version-Major%202.0.0-blueviolet.svg)]()
+[![Entries](https://img.shields.io/badge/Domeny-460+-brightgreen.svg)]()
+
+Bezlitosna, zautomatyzowana i perfekcyjnie skrojona tarcza DNS, która anihiluje internetowy ściek, uzależniające pożeracze czasu oraz toksyczne platformy społecznościowe prosto na cyfrowe wysypisko. 
+
+Ta lista została stworzona po to, aby Twój router (AdGuard Home, Pi-hole, NextDNS) stał się tarczą antyrakietową, odcinającą aplikacje w tle, boty i domowników od patologicznych interakcji.
 
 ---
 
-## 🚀 O Projekcie
-Projekt powstał, aby stworzyć listę blokad dla blokerów DNS (AdGuard Home, Pi-hole itp.). Koniec z dziwnymi stronami, losowymi wideo-czatami i niebezpiecznymi portalami randkowymi w Twojej sieci domowej. 
+## 🚀 Co blokuje wersja Major 2.0.0?
 
-Działa to z siłą czystej antymaterii – ładujesz na router lub blocker DNS i zapominasz o problemie!
+Wersja 2.0.0 to całkowita rewolucja i przeskok do **ponad 460 unikalnych, żywych domen** (aktywnych w 2026 roku), podzielonych na precyzyjne sekcje:
 
----
-
-## 🛠 Co aktualnie blokujemy? (Wersja 1.0.0)
-*   **Polskie i zagraniczne czat-ruletki** (6obcy, OmeTV itp.)
-*   **Toksyczne wideo-czaty** i portale z losowymi kamerkami
-*   **Więcej kategorii wyjdzie wkrótce** 📈
+*   **Sekcja 1A: Czat-ruletki i losowe wideo-czaty** (6obcy, OmeTV, Chatroulette, Flingster, Thundr i ich setki regionalnych/mobilnych klonów).
+*   **Sekcja 1B: Klasyczne czaty tekstowe** (Czateria, WP Chat, Polczat oraz międzynarodowe pokoje rozmów).
+*   **Sekcja 2A: Portale randkowe i aplikacje matrymonialne** (Tinder, Badoo, Bumble, Hinge, Fotka i ich zagraniczne końcówki).
+*   **Sekcja 2B: Flirt, sex-randki i agresywny spam hookup** (Wszelkie portale obiecujące "szybkie spotkania", naciągacze i generatory botów).
+*   **Sekcja 3: Adult Cam & Premium Sex Platforms** (Interaktywne kamerki na żywo, czaty 18+ oraz platformy subskrypcyjne typu OnlyFans/Fansly pożerające portfele).
 
 ---
 
-## ⚙️ Jak dodać listę do AdGuard Home?
+## 🛠️ Jak dodać listę do AdGuard Home?
 
-Dodanie filtru zajmie Ci mniej czasu niż wniesienie meblościanki z PRL-u na czwarte piętro. Oto szybka instrukcja:
-
-1. Skopiuj poniższy link do pliku (Direct Link):
+1. Skopiuj poniższy link **RAW**:
    ```text
-   [https://raw.githubusercontent.com/AntymateriaDev/antymateria-trashout-dns/main/blokada%20czat%C3%B3w](https://raw.githubusercontent.com/AntymateriaDev/antymateria-trashout-dns/main/blokada%20czat%C3%B3w)
+   [https://raw.githubusercontent.com/AntymateriaDev/antymateria-trashout-dns/refs/heads/main/blokada%20czat%C3%B3w](https://raw.githubusercontent.com/AntymateriaDev/antymateria-trashout-dns/refs/heads/main/blokada%20czat%C3%B3w)
