@@ -461,3 +461,29 @@ webcam.com
 webcamgirls.chat
 xcams.com
 xcams.tv
+
+! ==============================================================================
+! SEKCJA 4A: ALTERNATYWNE PLATFORMY SUBSKRYPCYJNE I SERWISY TWÓRCÓW
+! ==============================================================================
+caffeine.tv
+caffeine.co
+justfor.fans
+loylt.fans
+manyvids.com
+manyvids.net
+fanstime.com
+admireme.vip
+cents.com
+patreon-alternative.net
+
+! ==============================================================================
+! SEKCJA 4B: POŚREDNICY PŁATNOŚCI I PROCESORY HIGH-RISK
+! ==============================================================================
+ccbill.com
+ccbill.eu
+verotel.com
+segpay.com
+eprocessingnetwork.com
+epoch.com
+paybilling.org
+BillingHelp.com
