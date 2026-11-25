@@ -1,7 +1,7 @@
 ! Title: Antymateria - TrashOut DNS for AdGuard Home
 ! Description: Bezkompromisowa i dedykowana tarcza DNS anihilująca internetowy syf, czat-ruletki, adult-cams oraz toksyczne portale randkowe i hookupy.
-! Version: Major Release 2.0.0
-! Last modified: 2026-06-30
+! Version: Major Release 2.1.0
+! Last modified: 2026-11-25
 ! Homepage: https://github.com/AntymateriaDev/antymateria-trashout-dns
 ! Author: AntymateriaDev
 ! License: CC BY-NC-SA 4.0
@@ -15,6 +15,8 @@
 anosquad.pl
 anotalk.pl
 azar.app
+azar.com
+azar.com.pl
 azar.live
 bazoocam.com
 bazoocam.de
@@ -22,6 +24,8 @@ bazoocam.es
 bazoocam.fr
 bazoocam.org
 buzzcast.app
+camee.app
+camee.chat
 camfrog.com
 camfrog.net
 camgo.app
@@ -89,6 +93,8 @@ imeetzu.com
 imeetzu.net
 joingy.com
 joingy.net
+linko.global
+linko.tv
 livu.me
 livuchat.com
 luckycrush.com
@@ -113,6 +119,8 @@ omegle.onl
 omegle.pl
 omegle.tv
 omegleapp.me
+ometv.com
+ometv.pl
 only2chat.com
 polishroulette.com
 randomchat.app
@@ -123,16 +131,20 @@ roulette.live
 shagle.com
 shagle.tv
 stranger.video
+strangerbeing.com
 strangercam.com
 strangercam.tv
 strangerspark.com
 sweetmeet.me
+swiperoulette.com
+talkrand.com
 techoteka.pl
 thundr.app
 thundr.com
 tinychat.com
 tinychat.net
 tumile.me
+umingle.video
 videollamada.com
 videomeet.app
 whoapp.chat
@@ -214,7 +226,6 @@ badoo.de
 badoo.es
 badoo.fr
 badoo.it
-badoo.pI
 badoo.pl
 blackpeoplemeet.com
 bumble.co
@@ -248,6 +259,8 @@ innercircle.co
 interfriendship.de
 jaumo.com
 jdate.com
+kismia.com
+kismia.pl
 ldssingles.com
 lento.pl
 lex.lgbt
@@ -347,6 +360,7 @@ hotornot.com
 hud.app
 ihookup.com
 iwantone.com
+jerk-hub.com
 kasual.app
 localmilfself.com
 localsgowild.com
@@ -486,4 +500,4 @@ segpay.com
 eprocessingnetwork.com
 epoch.com
 paybilling.org
-BillingHelp.com
+billinghelp.com
