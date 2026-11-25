@@ -112,6 +112,7 @@ nightcap.chat
 nightcap.live
 ome.tv
 omechat.com
+ometv.chat
 omegla.chat
 omegle.com.pe
 omegle.one
