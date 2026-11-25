@@ -24,8 +24,6 @@ bazoocam.es
 bazoocam.fr
 bazoocam.org
 buzzcast.app
-camee.app
-camee.chat
 camfrog.com
 camfrog.net
 camgo.app
@@ -42,6 +40,8 @@ camsurf.co
 camsurf.com
 camzap.com
 camzey.com
+camee.app
+camee.chat
 chatalternative.com
 chatbazooka.com
 chati.online
